@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  border: 1px solid red;
+  
+}
+.banner {
+  display: flex;
+  justify-content: space-around;
+}
+.addScore1,.addScore4,.addScore6,.addWicket>button, .addBall>button{
+  background-color: tomato;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
